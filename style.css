@@ -8,7 +8,7 @@
 }
 
 .container{
-    background-color: cornsilk;
+    background-color: lavender;
 }
 
 .flex{
@@ -78,5 +78,5 @@ label.star:hover {
 
 label.star:before {
     content: '\f006';
-    font-family: FontAwesome
+    font-family: FontAwesome;
 }
